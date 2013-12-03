@@ -221,9 +221,9 @@
 							<goal>deploy</goal>
 						</goals>    <!-- only remote server needs -->
 						<configuration>
-							<hostname>192.168.1.101</hostname>
+							<hostname>192.168.1.100</hostname>
 							<port>9999</port>
-							<username>mgm</username>
+							<username>mgmAAAAAAAAA</username>
 							<password>mgmpwd</password>
 						</configuration>
 					</execution>
