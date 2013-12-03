@@ -222,7 +222,7 @@
 						</goals>    <!-- only remote server needs -->
 						<configuration>
 							<hostname>192.168.1.101</hostname>
-							<port>8282</port>
+							<port>9999</port>
 							<username>mgm</username>
 							<password>mgmpwd</password>
 						</configuration>
