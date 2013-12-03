@@ -232,7 +232,7 @@
 
 		</plugins>
 	</build>
-
+	<!-- aaaaaaaaaaa  -->
 	<profiles>
 		<profile>
 			<!-- The default profile skips all tests, though you can tune it to run 
