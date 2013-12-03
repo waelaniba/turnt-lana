@@ -221,7 +221,7 @@
 							<goal>deploy</goal>
 						</goals>    <!-- only remote server needs -->
 						<configuration>
-							<hostname>192.168.93.1</hostname>
+							<hostname>192.168.1.101</hostname>
 							<port>9999</port>
 							<username>esprit</username>
 							<password>espritpwd</password>
